@@ -7,7 +7,7 @@ I have wasted far too much time looking this up so I've compiled the syntax for 
 * Q or q is a placeholder for one of the input demonstrated in the Character column
 * X is arbitrary uppercase input
 * x is arbitary lowercase or any input (see Description)
-* LaTeX syntax is plain tex, other methods might exist in specialized packages
+* LaTeX syntax is plain tex and works only in paragraph and left-to-right modee, other methods might exist in specialized packages for other modes.
 
 | Character | Description | Plain LaTeX | BibTeX | HTML Entity/ GitHub flavored Markdown |
 | --------- | ----------- | ----- | ------ | ------------------------------- |
