@@ -14,7 +14,7 @@ I have wasted far too much time looking this up so I've compiled the syntax for 
 | &Agrave;, &Egrave;, &Ograve;, &Ugrave;  | Uppercase letter with grave accent | ``\`{X}`` (backtick) | ``{\`X}`` (backtick) | `&Qgrave;`,  `X&#768;`| 
 | &agrave;, &egrave;, &ograve;, &ugrave; | Lowercase letter with grave accent | ``\`{x}``  (backtick) | ``{\`x}``  (backtick) | `&qgrave;`,  `x&#768;`|
 | &Aacute;, &Eacute;, &Oacute;, &Uacute;  &Yacute; | Uppercase letter with acute accent | `\'{X}` (single quote) | `{\'X}` (single quote) | `&Qacute;`, `X&#769;`| 
-| &agrave;, &egrave;, &ograve;, &ugrave; &yacute; | Lowercase letter with acute accent | `\'{x}`  (single quote) | `{\'x}`  (single quote) | `&qacute;`, `x&#769;` | 
+| &aacute;, &eacute;, &oacute;, &uacute; &yacute; | Lowercase letter with acute accent | `\'{x}`  (single quote) | `{\'x}`  (single quote) | `&qacute;`, `x&#769;` | 
 | &Acirc;, &Ecirc;, &Ocirc;, &Ucirc;  | Uppercase letter with circumflex accent | `\^{X}` | `{\^X}` | `&Qcirc;`, `X&#770;` | 
 | &acirc;, &ecirc;, &ocirc;, &ucirc; | Lowercase letter with circumflex accent | `\^{x}` | `{\^x}` | `&qcirc;`, `x&#770;` | 
 | &Atilde;, &Ntilde;, &Otilde; | Uppercase letter with tilde | `\~{X}` | `{\~X}` | `&Qtilde;`, `X&#771;`| 
