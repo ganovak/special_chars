@@ -5,8 +5,8 @@ I have wasted far too much time looking this up so I've compiled the syntax for 
 
 ## Table of Contents
 
-* [Special Letters]
-* [Greek Letters]
+* [Special Letters](## Special Letters)
+* [Greek Letters](##Greek Letters)
 
 ## Special Letters
 ### Conventions
