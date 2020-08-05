@@ -47,3 +47,13 @@ I have wasted far too much time looking this up so I've compiled the syntax for 
 | &szlig; | German sz ligature | `\ss` | `{\ss}` | `&szlig;` |
 | &THORN; | Uppercase thorn | `\TH` | `{\TH}` | `&THORN;` |
 | &thorn; | Lowercase thorn | `\th` | `{\th}` | `&thorn;` |
+
+### References
+
+* [whatsmyip HTML entities and special characters](https://www.whatsmyip.org/html-characters)
+* [WikiBooks LaTeX special characters](https://en.wikibooks.org/wiki/LaTeX/Special_Characters)
+* [topal.com HTML symbol, entities, and ASCII character reference](https://www.toptal.com/designers/htmlarrows)
+* [LaTeX Help](https://www.asc.ohio-state.edu/miller.104/molspect/symposium/latexinstruct.html)
+* [Bibtex syntax](https://tex.stackexchange.com/questions/57743/how-to-write-%C3%A4-and-other-umlauts-and-accented-letters-in-bibliography)
+* [Diacritic Wikipedia page](https://en.wikipedia.org/wiki/Diacritic)
+* [w3schools HTML Entities](https://www.w3schools.com/html/html_entities.asp)
