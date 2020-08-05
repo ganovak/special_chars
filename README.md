@@ -59,3 +59,70 @@ I have wasted far too much time looking this up so I've compiled the syntax for 
 * [Bibtex syntax](https://tex.stackexchange.com/questions/57743/how-to-write-%C3%A4-and-other-umlauts-and-accented-letters-in-bibliography)
 * [Diacritic Wikipedia page](https://en.wikipedia.org/wiki/Diacritic)
 * [w3schools HTML Entities](https://www.w3schools.com/html/html_entities.asp)
+
+## Greek Letters
+
+| Character | Description | LaTeX Math Mode | LaTeX `textgreek` Package (paragraph mode) | HTML |
+| ----- | ---------- | ------ | -------- | ------- |
+| &Alpha; | Uppercase alpha | `A` | `\textAlpha` | `&Alpha;` | 
+| &alpha; | Lowercase alpha | `\alpha` | `\textalpha` | `&alpha;` |
+| &Beta; | Uppercase beta | `B` | `\textBeta` | `&Beta;` |
+| &beta; | Lowercase beta | `\beta` | `\textbeta` | `&beta;` |
+| &Gamma; | Uppercase gamma | `\Gamma` | `\textGamma` | `&Gamma;` |
+| &gamma; | Lowercase gamma | `\gamma` | `\textgamma` | `&gamma;` |
+| &Delta; | Uppercase delta | `\Delta` | `\textDelta` | `&Delta;` | 
+| &delta; | Lowercase delta | `\delta` | `\textdelta` | `&delta;` |
+| &Epsilon; | Uppercase epsilon | `\Epsilon` | `\textEpsilon` | `&Epsilon;` | 
+| &epsilon; | Lowercase epsilon | `\epsilon` | `\textepsilon` | `&epsilon;` |
+| NA | Script epsilon | `\varepsilon` | `\straightepsilon` | NA|
+| &Zeta; | Uppercase zeta | `Z` | `\textZeta` | `&Zeta;` | 
+| &zeta; | Lowercase zeta | `\zeta` | `\textzeta` | `&zeta;` |
+| &Eta; | Uppercase eta | `H` | `\textEta` | `&Eta;` | 
+| &eta; | Lowercase eta | `\eta` | `\texteta` | `&eta;` |
+| &Theta; | Uppercase theta | `\Theta` | `\textTheta` | `&Theta;` | 
+| &theta; | Lowercase theta | `\theta` | `\straighttheta` | `&theta;` |
+| &thetasym; | Script theta | `\vartheta` | `\texttheta`, `\scripttheta` | `&thetasym;` |
+| &Iota; | Uppercase iota | `I` | `\textIota` | `&Iota;` | 
+| &iota; | Lowercase iota | `\iota` | `\textiota` | `&iota;` |
+| &Kappa; | Uppercase kappa | `K` | `\textKappa` | `&Kappa;` | 
+| &kappa; | Lowercase kappa | `\kappa` | `\textkappa` | `&kappa;` |
+| &Lambda; | Uppercase lambda | `\Lambda` | `\textLambda` | `&Lambda;` | 
+| &lambda; | Lowercase lambda | `\lambda` | `\textlambda` | `&lambda;` |
+| &Mu; | Uppercase mu | `M` | `\textMu` | `&Mu;` | 
+| &mu; | Lowercase mu | `\mu` | `\textmugreek` | `&mu;` |
+| &Nu; | Uppercase nu | `N` | `\textNu` | `&Nu;` | 
+| &nu; | Lowercase nu | `\nu` | `\textnu` | `&nu;` |
+| &Xi; | Uppercase xi | `\Xi` | `\textXi` | `&Xi;` | 
+| &xi; | Lowercase xi | `\xi` | `\textxi` | `&xi;` |
+| &Omicron; | Uppercase omicron | `O` | `\textOmicron` | `&Omicron;` | 
+| &omicron; | Lowercase omicron | `o` | `\textomicron` | `&omicron;` |
+| &Pi; | Uppercase pi | `\Pi` | `\textPi` | `&Pi;` | 
+| &pi; | Lowercase pi | `\pi` | `\textpi` | `&pi;` |
+| &piv; | Symbol pi | NA | NA | `&piv;` |
+| &Rho; | Uppercase rho | `P` | `\textAlpha` | `&Rho;` | 
+| &rho; | Lowercase rho | `\rho` | `\textalpha` | `&rho;` |
+| &rhov; | Script rho | `\varrho` | NA | `&rhov;` |
+| &Sigma; | Uppercase sigma | `\Sigma` | `\textSigma` | `&Sigma;` | 
+| &sigma; | Lowercase sigma | `\sigma` | `\textsigma` | `&Sigma;` |
+| &sigmaf; | Final sigma | NA | `\textvarsigma` | `&alpha;` |
+| &Tau; | Uppercase tau | `T` | `\textTau` | `&Tau;` | 
+| &tau; | Lowercase tau | `\tau` | `\texttau` | `&tau;` |
+| &Upsilon; | Uppercase upsilon | `\Upsilon` | `\textUpsilon` | `&Upsilon;` | 
+| &upsilon; | Lowercase upsilon | `\upsilon` | `\textupsilon` | `&upsilon;` |
+| &Phi; | Uppercase phi | `\Phi` | `\textPhi` | `&Phi;` | 
+| NA | Lowercase phi | `\phi` | `\straightphi` | NA |
+| &phi; | Script phi | `\varphi` | `\textphi` | `&phi;` |
+| &Chi; | Uppercase chi | `X` | `\textChi` | `&Chi;` | 
+| &chi; | Lowercase chi | `\chi` | `\textchi` | `&chi;` |
+| &Psi; | Uppercase psi | `\Psi` | `\textPsi` | `&Psi;` | 
+| &psi; | Lowercase psi | `\psi` | `\textpsi` | `&psi;` |
+| &Omega; | Uppercase omega | `\Omega` | `\textOmega` | `&Omega;` | 
+| &omega; | Lowercase omega | `\omega` | `\textomega` | `&omega;` |
+
+### References
+
+* [Overleaf Greek letters](https://www.overleaf.com/learn/latex/List_of_Greek_letters_and_math_symbols)
+* [W3C Character Table](https://www.w3.org/TR/WD-math-970515/table04.html)
+* [`textgreek` package](https://ctan.math.illinois.edu/macros/latex/contrib/textgreek/textgreek.pdf)
+* [HTML5 Greek Letters](http://www.tutorialspark.com/html5/HTML5_Greek_Characters.php)
+
