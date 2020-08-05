@@ -3,6 +3,11 @@ I have wasted far too much time looking this up so I've compiled the syntax for 
 
 **Note**: GitHub flavored Markdown accepts HTML character codes. For R Markdown, use the code for the intended output format.
 
+## Table of Contents
+
+* [Special Letters]
+* [Greek Letters]
+
 ## Special Letters
 ### Conventions
 
