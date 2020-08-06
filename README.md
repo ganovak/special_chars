@@ -77,9 +77,9 @@ I have wasted far too much time looking this up so I've compiled the syntax for 
 | &gamma; | Lowercase gamma | `\gamma` | `\textgamma` | `&gamma;` |
 | &Delta; | Uppercase delta | `\Delta` | `\textDelta` | `&Delta;` | 
 | &delta; | Lowercase delta | `\delta` | `\textdelta` | `&delta;` |
-| &Epsilon; | Uppercase epsilon | `\Epsilon` | `\textEpsilon` | `&Epsilon;` | 
-| &epsilon; | Lowercase epsilon | `\epsilon` | `\textepsilon` | `&epsilon;` |
-| NA | Script epsilon | `\varepsilon` | `\straightepsilon` | NA|
+| &Epsilon; | Uppercase epsilon | `E` | `\textEpsilon` | `&Epsilon;` | 
+| &epsilon; | Lowercase epsilon | `\varepsilon` | `\textepsilon` | `&epsilon;` |
+| &straightepsilon; | Straight epsilon | `\epsilon` |  `\straightepsilon` | `&straightepsilon;`|
 | &Zeta; | Uppercase zeta | `Z` | `\textZeta` | `&Zeta;` | 
 | &zeta; | Lowercase zeta | `\zeta` | `\textzeta` | `&zeta;` |
 | &Eta; | Uppercase eta | `H` | `\textEta` | `&Eta;` | 
@@ -99,23 +99,22 @@ I have wasted far too much time looking this up so I've compiled the syntax for 
 | &nu; | Lowercase nu | `\nu` | `\textnu` | `&nu;` |
 | &Xi; | Uppercase xi | `\Xi` | `\textXi` | `&Xi;` | 
 | &xi; | Lowercase xi | `\xi` | `\textxi` | `&xi;` |
-| &Omicron; | Uppercase omicron | `O` | `\textOmicron` | `&Omicron;` | 
-| &omicron; | Lowercase omicron | `o` | `\textomicron` | `&omicron;` |
+| &Omicron; | Uppercase omicron | `O` | `\textOmikron` | `&Omicron;` | 
+| &omicron; | Lowercase omicron | `o` | `\textomikron` | `&omicron;` |
 | &Pi; | Uppercase pi | `\Pi` | `\textPi` | `&Pi;` | 
 | &pi; | Lowercase pi | `\pi` | `\textpi` | `&pi;` |
-| &piv; | Symbol pi | NA | NA | `&piv;` |
-| &Rho; | Uppercase rho | `P` | `\textAlpha` | `&Rho;` | 
-| &rho; | Lowercase rho | `\rho` | `\textalpha` | `&rho;` |
+| &Rho; | Uppercase rho | `P` | `\textRho` | `&Rho;` | 
+| &rho; | Lowercase rho | `\rho` | `\textrho` | `&rho;` |
 | &rhov; | Script rho | `\varrho` | NA | `&rhov;` |
 | &Sigma; | Uppercase sigma | `\Sigma` | `\textSigma` | `&Sigma;` | 
 | &sigma; | Lowercase sigma | `\sigma` | `\textsigma` | `&Sigma;` |
-| &sigmaf; | Final sigma | NA | `\textvarsigma` | `&alpha;` |
+| &sigmaf; | Final sigma | `\varsigma` | `\textvarsigma` | `&sigmaf;` |
 | &Tau; | Uppercase tau | `T` | `\textTau` | `&Tau;` | 
 | &tau; | Lowercase tau | `\tau` | `\texttau` | `&tau;` |
 | &Upsilon; | Uppercase upsilon | `\Upsilon` | `\textUpsilon` | `&Upsilon;` | 
 | &upsilon; | Lowercase upsilon | `\upsilon` | `\textupsilon` | `&upsilon;` |
 | &Phi; | Uppercase phi | `\Phi` | `\textPhi` | `&Phi;` | 
-| NA | Lowercase phi | `\phi` | `\straightphi` | NA |
+| &straightphi; | Lowercase phi | `\phi` | `\straightphi` | `&straightphi;` |
 | &phi; | Script phi | `\varphi` | `\textphi` | `&phi;` |
 | &Chi; | Uppercase chi | `X` | `\textChi` | `&Chi;` | 
 | &chi; | Lowercase chi | `\chi` | `\textchi` | `&chi;` |
